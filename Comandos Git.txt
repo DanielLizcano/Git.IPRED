@@ -1,0 +1,39 @@
+    -al crear un repositorio dejar al administrador del proyecto, este deberia 
+    ser master
+
+    -git status lo principal luego de un cambio es usar -> git status 
+    esto con la finalidad de ver que los archivos cambiados sean lo correctos 
+    y que estan tomando los cambios en el repo
+
+    -git commir una ves verificada la info a subir usamos
+
+    -git merge para sobreescribir un archivo
+    
+    -git log para revisar el historial de los merge se usa git log
+
+    -para git stash muy importante para poyecto grandes
+
+    -git ameng para reusar un commit incompleto
+
+    -git reset si se sufrio de un daño grande o perdida de infromacion masiva o importante para restablecer, se debe conocer o identificar el hash de la ultima version utilizable y completa y tener cuidao de no volver a una version dañada
+
+    -git reflo se utiliza para buscar las versiones de hash usadas en el reset
+
+    -git grep para buscar palabras en los archivos de la rama en la cual estamos ubicados
+
+    -git grep -c cuenta esas palabras del comando anterior
+
+    -git log -S para buscar entre los comentarios que se hacen dentro de los merge
+
+    -git blame -c y el nombre del archivo para ver quien hizo que dentro del archivo
+
+    -git shortlog -sn para saber que merge o commit de cada colaborador
+
+    -git shortlog -sn all para ver incluso los borrados
+
+    -git shortlog -sn all --no-merge para visualizar los merge
+
+    -git algo --help para ver el funcionamiento de la instruccion o comando
+
+    -git branch para ver ramas
+
