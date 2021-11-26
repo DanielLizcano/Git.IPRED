@@ -21,7 +21,7 @@
 
     -git grep para buscar palabras en los archivos de la rama en la cual estamos ubicados
 
-    -git grep -c cuenta esas palabras del comando anterior
+    -git grep -c cuegit blamenta esas palabras del comando anterior
 
     -git log -S para buscar entre los comentarios que se hacen dentro de los merge
 
@@ -36,4 +36,8 @@
     -git algo --help para ver el funcionamiento de la instruccion o comando
 
     -git branch para ver ramas
+
+    -git add . -> para agregar multiples cambios en los archvios o archivos a la ves
+
+    
 
